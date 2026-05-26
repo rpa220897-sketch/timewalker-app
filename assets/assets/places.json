@@ -1,0 +1,27 @@
+[
+  {
+    "id": "kremlin",
+    "name": "Калужский кремль",
+    "lat": 54.5138,
+    "lon": 36.2612,
+    "description": "Деревянный кремль Ивана Грозного, основан в 1547 году.",
+    "eras": [
+      { "year": "1910", "imageUrl": "https://picsum.photos/id/1015/400/600" },
+      { "year": "1943", "imageUrl": "https://picsum.photos/id/102/400/600" },
+      { "year": "1970", "imageUrl": "https://picsum.photos/id/1033/400/600" },
+      { "year": "Сегодня", "imageUrl": "https://picsum.photos/id/106/400/600" }
+    ]
+  },
+  {
+    "id": "troitsky",
+    "name": "Троицкий собор",
+    "lat": 54.5135,
+    "lon": 36.2605,
+    "description": "Главный собор Калуги, построен в 1786–1819 гг.",
+    "eras": [
+      { "year": "1786", "imageUrl": "https://picsum.photos/id/104/400/600" },
+      { "year": "1941", "imageUrl": "https://picsum.photos/id/106/400/600" },
+      { "year": "Сегодня", "imageUrl": "https://picsum.photos/id/107/400/600" }
+    ]
+  }
+]
